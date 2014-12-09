@@ -8,4 +8,4 @@ Header 1 | Header 2
 Content1 | Content 2
 
 *Bold*
-_Tetx_
+_Text_
